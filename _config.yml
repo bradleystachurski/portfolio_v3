@@ -1,0 +1,14 @@
+#Site settings
+title: Portfolio
+email: bradley.stachurski@gmail.com
+
+# Build settings
+
+markdown: kramdown
+permalink: pretty
+
+port: 8000
+
+sass:
+  sass_dir: assets/css
+  style: :nested
